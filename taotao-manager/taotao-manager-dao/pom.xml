@@ -31,6 +31,11 @@
 			<groupId>com.github.pagehelper</groupId>
 			<artifactId>pagehelper</artifactId>
 		</dependency>
+			<dependency>
+				<groupId>com.github.jsqlparser</groupId>
+				<artifactId>jsqlparser</artifactId>
+				<version>${jsqlparser.version}</version><!--$NO-MVN-MAN-VER$-->
+			</dependency>
 		<!-- MySql -->
 		<dependency>
 			<groupId>mysql</groupId>
